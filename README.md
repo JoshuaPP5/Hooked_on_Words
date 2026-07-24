@@ -103,5 +103,4 @@ To run this game, make sure your project has a folder named `data/` containing t
 ## Team Members
 
 * **[Joshua Putra Pratama/F11415027]**
-* **[Lucas Metzger/F11415020]**
 * **[Pei Chen, Lin/B11110113]**
